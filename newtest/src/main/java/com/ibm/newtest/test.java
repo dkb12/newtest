@@ -1,5 +1,5 @@
 package com.ibm.newtest;
 
 public class test{
-	public int a = 0;
+	public int a = 1;
 }
